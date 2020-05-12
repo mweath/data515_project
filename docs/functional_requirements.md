@@ -2,7 +2,7 @@
 
 ## Background  
 
-Buying a home is the largest single purchase that most people will make in their entire lives. Additionally, the residential real estate market is one of the largest components of the American economy. Despite this prominence, good data on real estate trends and transactions is almost impossible to find due to two main limitations: first, real estate transactions are recorded at the county level with a wide variation in the definitions, practices, and reporting standards for each transaction. Second, most real estate transactions are conducted with the assistance of a licensed realtor and their associated Multiple Listing Service (MLS) that treats all transaction data as proprietary. These two factors together have resulted in a real estate data landscape that is fragmented, inconsistent, and difficult to access for the individual consumer that is attempting to buy or sell real estate.  
+Buying a home is the largest single purchase that most people will make in their entire lives.<sup>1</sup> Additionally, the residential real estate market is one of the largest components of the American economy.<sup>2</sup> Despite this prominence, good data on real estate trends and transactions is almost impossible to find due to two main limitations: first, real estate transactions are recorded at the county level with a wide variation in the definitions, practices, and reporting standards for each transaction. Second, most real estate transactions are conducted with the assistance of a licensed realtor and their associated Multiple Listing Service (MLS) that treats all transaction data as proprietary. These two factors together have resulted in a real estate data landscape that is fragmented, inconsistent, and difficult to access for the individual consumer that is attempting to buy or sell real estate.  
 
 Our project attempts to mitigate these difficulties by creating a tool to collect real estate listing and transaction data for Seattle, WA from the King County Assessor’s office and real estate brokerage firm Redfin. This data can then be used to feed tools to better inform individual consumers on the current state of the real estate market in general or specific properties of interest. 
 
@@ -57,4 +57,8 @@ User is interested in finding summary data on the type of housing in a given are
     - Data Manager: Pull and process data based on parameters from the UI Manager and sends back to the UI Manager
     - UI Manager displays the results in as a text-based description
 
-
+1: “More people are buying a home — the biggest financial decision of their lives — sight unseen”,  
+    Seattle Times, 20 July 2018 [link](https://www.seattletimes.com/business/real-estate/more-people-are-buying-a-home-the-biggest-financial-decision-of-their-lives-sight-unseen/)  
+    
+2: See for example Congressional Research Service report: Introduction to U.S. Economy: Housing Market (October 2019)  
+    https://fas.org/sgimes p/crs/misc/IF11327.pdf
