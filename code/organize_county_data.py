@@ -121,7 +121,6 @@ def filter_county_data(zip_code: list, start_year='2010', start_month='1', start
                 else:
                     description_list.append(description.values[0])
             df_all[col] = description_list
-    df_all.to_csv('/Users/ruianyang/Documents/GradSchool/MSDS/DATA515/group_project/test.csv')
     return df_all
 
 
