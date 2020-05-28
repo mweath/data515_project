@@ -1,0 +1,175 @@
+﻿source,name
+sale,Excise Tax Number
+sale,Major
+sale,Minor
+sale,Document Date
+sale,Sale Price
+sale,Recording Number
+sale,Recording Volume
+sale,Recording Page
+sale,Plat Number
+sale,Plat Type
+sale,Plat Lot
+sale,Plat Block
+sale,Seller: Name
+sale,Buyer: Name
+sale,Property Type
+sale,Principal Use
+sale,Sale Instrument
+sale,Forest Land
+sale,Current Use Land
+sale,Non Profit Use
+sale,Historic Property
+sale,Sale Reason
+sale,Property Class
+sale,Sale Warning
+account,Account Number
+account,Major
+account,Minor
+account,Attention Line
+account,Address Line
+account,City State
+account,Zip Code
+account,Levy Code
+account,Tax Status
+account,Tax Year
+account,New Construction Flag
+account,Taxable Value Reason
+account,Appraised Land Value
+account,Appraised Improvement Value
+account,Taxable Land Value
+account,Taxable Improvement Value
+lookup,Look Up Type
+lookup,Look Up Item
+lookup,Look Up Description
+parcel,Major
+parcel,Minor
+parcel,Property Name
+parcel,Plat Name
+parcel,Plat Lot
+parcel,Plat Block
+parcel,Range
+parcel,Township
+parcel,Section
+parcel,Quarter Section
+parcel,Property Type
+parcel,Area
+parcel,SubArea
+parcel,SpecArea
+parcel,SpecSubArea
+parcel,District Name
+parcel,Levy Code
+parcel,Current Zoning
+parcel,HBU As If Vacant
+parcel,HBU As Improved
+parcel,Present Use
+parcel,Lot Square Footage
+parcel,Water System
+parcel,Sewer System
+parcel,Access
+parcel,Topography
+parcel,Street Surface
+parcel,Restrictive Size / Shape
+parcel,Inadequate Parking
+parcel,Percent Unusable
+parcel,View: Mt Rainier
+parcel,View: Olympics
+parcel,View: Cascades
+parcel,View: Territorial
+parcel,View: Seattle Skyline
+parcel,View: Puget Sound
+parcel,View: Lake Washington
+parcel,View: Lake Sammamish
+parcel,View: Small Lake / River / Creek
+parcel,View: Other View
+parcel,Waterfront Location
+parcel,Waterfront Footage
+parcel,Waterfront Bank
+parcel,Waterfront Poor Quality
+parcel,Waterfront Restricted Access
+parcel,Waterfront Access Rights
+parcel,Waterfront Proximity Influence
+parcel,Tideland / Shoreland
+parcel,Lot Depth Factor
+parcel,Traffic Noise
+parcel,Airport Noise
+parcel,Power Lines
+parcel,Other Nuisances
+parcel,Number Building Sites
+parcel,Contamination
+parcel,DNR Lease
+parcel,Adjacent Golf Fairway
+parcel,Adjacent Greenbelt
+parcel,Common Property
+parcel,Historic Site
+parcel,Current Use Designation
+parcel,Native Growth Protection Easement
+parcel,Easements
+parcel,Other Designation
+parcel,Deed Restrictions
+parcel,Development Rights Purchased
+parcel,Coal Mine Hazard
+parcel,Critical Drainage
+parcel,Erosion Hazard
+parcel,Landfill Buffer
+parcel,Hundred Year Flood Plain
+parcel,Seismic Hazard
+parcel,Landslide Hazard
+parcel,Steep Slope Hazard
+parcel,Stream
+parcel,Wetland
+parcel,Species Of Concern
+parcel,Sensitive Area Tract
+parcel,Water Problems
+parcel,Transportation Concurrency
+parcel,Other Problems
+building,Major
+building,Minor
+building,Building Number
+building,Number Living Units
+building,Situs Address
+building,Building Number
+building,Fraction
+building,Direction Prefix
+building,Street Name
+building,Street Type
+building,Direction Suffix
+building,Zip code
+building,Stories
+building,Building Grade
+building,Building Grade Variation
+building,Square Feet 1st Floor
+building,Square Feet Half Floor
+building,Square Feet 2nd Floor
+building,Square Feet Upper Floor
+building,Square Feet Unfinished Full
+building,Square Feet Unfinished Half
+building,Square Feet Total Living
+building,Square Feet Total Basement
+building,Square Feet Finished Basement
+building,Finished Basement Grade
+building,Square Feet Garage Basement
+building,Square Feet Garage Attached
+building,Daylight Basement
+building,Square Feet Open Porch
+building,Square Feet Enclosed Porch
+building,Square Feet Deck
+building,Heat System
+building,Heat Source
+building,Percent Brick Stone
+building,View Utilization
+building,Bedrooms
+building,Bath: Half Count
+building,Bath: 3qtr Count
+building,Bath: Full Count
+building,Fireplace: Single Story
+building,Fireplace: Multiple Story
+building,Fireplace: Freestanding
+building,Fireplace: Additional
+building,Year Built
+building,Year Renovated
+building,Percent Complete
+building,Obsolescence
+building,Percent Net Condition
+building,Condition
+building,Additional Cost
