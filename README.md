@@ -1,5 +1,7 @@
 # data515_project
 Final project for DATA515 spring 2020
+UNDER CONSTRUCTION - CONTENT TO COME
+
 ### Organization of the project
 
 The project has the following structure:
