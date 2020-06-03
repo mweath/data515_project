@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/mweath/data515_project.svg?branch=master)](https://travis-ci.com/mweath/data515_project)
 # data515_project
 Final project for DATA515 spring 2020
 UNDER CONSTRUCTION - CONTENT TO COME
